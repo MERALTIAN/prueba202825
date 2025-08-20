@@ -1,0 +1,16 @@
+{
+  "name": "simulacion-severless",
+  "version": "1.0.0",
+  "description": "proyecto bakend de simulacion de serverless",
+  "license": "ISC",
+  "author": "Jeremy",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
